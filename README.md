@@ -10,3 +10,6 @@ public static void Main(String[] args){
 ```
 
 머신러닝의 중요한 점은 인간이 아닌 기계가 **통계적 근거**를 바탕으로 결과를 낸다. (귀납)
+
+- 첫 번째는, CNN
+- 두 번째는, RNN
