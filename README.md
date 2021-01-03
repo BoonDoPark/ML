@@ -14,3 +14,6 @@ public static void Main(String[] args){
 - 첫 번째는, CNN
 - 두 번째는, RNN
 성규는 인간이지만 새도 된다. 그래서 그에겐 **부리**가 있다
+-넙적부리황새
+-참새
+-부리쬬
