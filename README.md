@@ -71,9 +71,6 @@ https://ml-app.yah.ac/
 
 특성들 사이의 관계를 파악하는 것은 매우 어렵고, 조심스럽게 접근해야 하는 작업입니다. 적은 수의 데이터를 가지고 상관관계가 있다고 단정하면 안됩니다. 또 단지 서로 상관관계를 맺고 있을 뿐인데, 그것을 인과관계라고 단정해도 안 됩니다.
 
-https://docs.google.com/forms/d/e/1FAIpQLSfcJi6CJSVfiY6aDRfEZO-nRl99H4QCU7LKl_xWVlMzS3Rd6g/viewform
-위 링크를 통해서 독립변수와 종속변수, 상관관계와 인과관계를 생각하는 능력을 배웠습니다.
-
 
 
 
